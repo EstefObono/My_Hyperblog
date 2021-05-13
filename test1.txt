@@ -1,0 +1,4 @@
+This is the first of lots of test documents which we are going 
+to use during platzy lectures
+note that it doesnt hace any structure in particular. It is just plain text in a plain file.
+I already forgot what the exact name is.
