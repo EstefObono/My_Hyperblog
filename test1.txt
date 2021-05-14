@@ -6,6 +6,6 @@ Another one again.
 
 Regretting modifying the text before hitting commit for the first time.
 
-Another one.
+Want to delete this "Another one", because it doesn't make any sense.
 
 Let see what the status is this time.
