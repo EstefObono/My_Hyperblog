@@ -11,7 +11,7 @@ body
 #cabecera
 {
     background-color: cadetblue;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5em);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: indigo;
     font-size: 2em;
     font-weight: bold;
